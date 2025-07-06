@@ -1,11 +1,8 @@
-### Hi there 👋
+### Hi there I’m Vishal 👋
 
-- 🔭 I’m Vishal Kumar
-- 🌱 I’m currently learning Web Development
-- 👯 I’m passionate in coding
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Hobbbies to play cricket
+- 🌱 Aspiring Software Developer 
+- 👯 Building Full Stack Projects
+- 🤔 Exploring Web3, Gen-Ai
+- 💬 Computer Science and Engineering 
+- ⚡ Hobbbies:cricket, listening music
 
