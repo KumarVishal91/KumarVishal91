@@ -2,7 +2,7 @@
 
 - 🌱 Aspiring Software Developer 
 - 👯 Building Full Stack Projects
-- 🤔 Exploring Web3, Gen-Ai
+- 🤔 Exploring new Tech
 - 💬 Computer Science and Engineering 
 - ⚡ Hobbbies:cricket, listening music
 
