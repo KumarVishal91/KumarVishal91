@@ -1,8 +1,8 @@
 ### Hi there I’m Vishal 👋
 
-- 🌱 Aspiring Software Developer 
+- 🌱 Aspiring Software Engineer
 - 👯 Building Full Stack Projects
-- 🤔 Exploring new Tech
+- 🤔 Learning App Development 
 - 💬 Computer Science and Engineering 
 - ⚡ Hobbbies:cricket, listening music
 
