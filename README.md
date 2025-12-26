@@ -2,7 +2,8 @@
 
 - 🌱 Aspiring Software Engineer
 - 👯 Full Stack Developer
-- 🤔 Exploring new tech
+- 🤔 Exploring tech
 - 💬 Computer Science and Engineering 
-- ⚡ Hobbbies:cricket, listening music, travelling 
+- ⚡ Hobbbies:cricket, listening music, travelling
+-  Core Learner..
 
