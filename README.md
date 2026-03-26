@@ -1,8 +1,8 @@
 ### Hi there I’m Vishal 👋
 
-- 🌱 B.Tech Undergraduate
-- 👯 Learning Full Stack Developement and Machine Learning
-- 🤔 Exploring real world technology
+- 🌱 Prefinal Year Student 
+- 👯 Full Stack Developer
+- 🤔 Building real world projects  
 - 💬 Computer Science and Engineering 
 - ⚡ Hobbbies:cricket, travelling
 
