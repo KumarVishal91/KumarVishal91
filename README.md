@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Vishal%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18" />
+
 # 👋 Hey, I'm Vishal Kumar
 
 ### 🚀 Full Stack Developer | Backend Enthusiast | AI & ML Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer;CSE+%7C+AI+%26+ML;DSA+Enthusiast;Building+Real-World+Projects;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Real-World+Applications;Backend+Developer+%7C+Full+Stack+Developer;CSE+Student+%7C+AI+%26+Machine+Learning;DSA+Enthusiast+%26+Problem+Solver;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br>
 
@@ -15,12 +17,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://my-portfolio-qp9c.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=KumarVishal91&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=KumarVishal91&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
@@ -28,59 +30,59 @@
 
 # 🧑‍💻 About Me
 
-```text id="brg82d"
-🎓 Final-Year CSE Student | AI & ML
-💻 Full Stack Developer | Backend Enthusiast
-⚙️ Building Scalable & Production-Ready Applications
-🤖 Exploring AI, Machine Learning & Generative AI
-🔗 Learning RAG, LLMs & AI-Powered Applications
-🧠 DSA & Problem Solving
-🚀 Turning Ideas into Real-World Projects
+```text
+🎓 Final-Year Computer Science Student | AI & ML
+💻 Full Stack Developer with a strong interest in Backend Engineering
+⚙️ Building scalable, practical and production-ready applications
+🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
+🔗 Learning RAG, LLMs and AI-powered applications
+🧠 Practicing Data Structures, Algorithms & Problem Solving
+🚀 Turning ideas into real-world projects
 ```
 
 ---
 
 # ⚡ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p align="center">
+### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
-</p>
 
-### 🌐 Frontend
+<br><br>
 
-<p align="center">
+### 🌐 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
 
-### ⚙️ Backend
+<br><br>
 
-<p align="center">
+### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
-</p>
 
-### 🗄️ Database
+<br><br>
 
-<p align="center">
+### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
 
-### 🤖 AI / ML
+<br><br>
 
-<p align="center">
+### 🤖 AI / Machine Learning
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-</p>
+<br><br>
 
 ### 🛠️ Tools & Platforms
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+
+</div>
 
 ---
 
@@ -97,7 +99,7 @@ AI-powered agriculture platform focused on intelligent fertilizer recommendation
 `React.js` `Python` `Machine Learning` `AI`
 
 <a href="https://github.com/KumarVishal91/KisanAI">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
@@ -111,16 +113,16 @@ A full-stack task management application with authentication, task creation and 
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
 
 <a href="https://github.com/KumarVishal91/Task-Manager">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
 ### 🧠 DSA & Problem Solving
 
-Regularly solving coding problems and strengthening algorithmic thinking.
+Regularly solving coding problems and improving algorithmic thinking.
 
-**Focus**
+**Focus Areas**
 
 `Arrays` `Strings` `Sorting` `Searching` `Stack` `Queue` `Trees` `Graphs`
 
@@ -131,13 +133,12 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 </div>
 
 ---
----
 
 # 📊 Developer Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=KumarVishal91&theme=tokyonight&hide_border=true" />
 
@@ -155,7 +156,17 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 ---
 
-# 📈 Contribution Overview
+# 🟩 GitHub Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/2563eb/KumarVishal91" alt="Vishal Kumar's GitHub Contribution Chart" />
+
+</div>
+
+---
+
+# 📈 Contribution Summary
 
 <div align="center">
 
@@ -165,7 +176,7 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 ---
 
-# ⏰ Coding Activity
+# ⏰ Developer Activity
 
 <div align="center">
 
@@ -181,7 +192,7 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img width="100%" src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
@@ -191,14 +202,14 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 <div align="center">
 
-| 🚀 Area                   | 📈 Focus               |
-| ------------------------- | ---------------------- |
+| 🚀 Area | 📈 Focus |
+|---|---|
 | 💻 Full Stack Development | ████████████████░░ 80% |
-| ⚙️ Backend Development    | ███████████████░░░ 75% |
-| 🧠 DSA & Problem Solving  | ██████████████░░░░ 70% |
-| 🤖 AI / Machine Learning  | ████████████░░░░░░ 60% |
-| ✨ Generative AI           | █████████░░░░░░░░░ 50% |
-| ☁️ Cloud & Deployment     | ███████░░░░░░░░░░░ 40% |
+| ⚙️ Backend Development | ███████████████░░░ 75% |
+| 🧠 DSA & Problem Solving | ██████████████░░░░ 70% |
+| 🤖 AI / Machine Learning | ████████████░░░░░░ 60% |
+| ✨ Generative AI | █████████░░░░░░░░░ 50% |
+| ☁️ Cloud & Deployment | ███████░░░░░░░░░░░ 40% |
 
 </div>
 
@@ -212,7 +223,7 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-<img src="https://img.shields.io/badge/100%2B-Problems_Solved-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem_Solving-Active-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge" />
 
@@ -225,15 +236,15 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 <div align="center">
 
 <a href="https://github.com/KumarVishal91">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vishal-kumar91/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://my-portfolio-qp9c.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox-browser&logoColor=white" height="48" />
 </a>
 
 </div>
@@ -244,11 +255,11 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 <div align="center">
 
-### **"Learn. Build. Solve. Repeat. 🚀"**
+### **"Learn. Build. Solve. Improve. Repeat. 🚀"**
 
 <br>
 
-💻 Code → 🧠 Learn → 🚀 Build → 🔥 Improve
+💻 **Code** → 🧠 **Learn** → 🚀 **Build** → 🔥 **Improve**
 
 </div>
 
@@ -258,6 +269,6 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer" />
 
 </div>
