@@ -128,9 +128,9 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 `Arrays` `Strings` `Sorting` `Searching` `Stack` `Queue` `Trees` `Graphs`
 
-<a href="https://github.com/KumarVishal91/LeetCode">
+<!-- <a href="https://github.com/KumarVishal91/LeetCode">
   <img src="https://img.shields.io/badge/View_DSA_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+</a> -->
 
 </div>
 
