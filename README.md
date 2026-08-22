@@ -134,18 +134,6 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarVishal91&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🟩 GitHub Contributions
 
 <div align="center">
@@ -235,21 +223,17 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 <div align="center">
 
-<a href="https://github.com/KumarVishal91">
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-</a>
-
-   
-
-<a href="https://www.linkedin.com/in/vishal-kumar91/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
-   
-
-<a href="https://my-portfolio-qp9c.vercel.app/">
-<img src="https://img.shields.io/badge/🌐-Portfolio-FF5722?style=for-the-badge" height="50" />
-</a>
+<p>
+  <a href="https://github.com/KumarVishal91">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-kumar91/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="https://my-portfolio-qp9c.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" height="50" />
+  </a>
+</p>
 
 </div>
 
