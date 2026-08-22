@@ -62,50 +62,6 @@
 
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
-
-<br><br>
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-
-<br><br>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-<br><br>
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
