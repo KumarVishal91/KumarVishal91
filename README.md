@@ -6,9 +6,9 @@
 
 ### 🚀 Full Stack Developer | Backend Enthusiast | AI & ML Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Real-World+Applications;Backend+Developer+%7C+Full+Stack+Developer;CSE+Student+%7C+AI+%26+Machine+Learning;DSA+Enthusiast+%26+Problem+Solver;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Real-World+Applications;Full+Stack+Developer+%7C+Backend+Enthusiast;CSE+Student+%7C+AI+%26+Machine+Learning;DSA+Enthusiast+%26+Problem+Solver;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-<br>
+<br/>
 
 <a href="https://github.com/KumarVishal91">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=KumarVishal91&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
 
@@ -31,7 +31,7 @@
 # 🧑‍💻 About Me
 
 ```text
-🎓 Final-Year Computer Science Student | AI & ML
+🎓 Final-Year Computer Science Student specializing in AI & ML
 💻 Full Stack Developer with a strong interest in Backend Engineering
 ⚙️ Building scalable, practical and production-ready applications
 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
@@ -50,25 +50,25 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
 
-<br><br>
+<br/><br/>
 
 ### 🌐 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 
-<br><br>
+<br/><br/>
 
 ### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
 
-<br><br>
+<br/><br/>
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-<br><br>
+<br/><br/>
 
 ### 🤖 AI / Machine Learning
 
@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-<br><br>
+<br/><br/>
 
 ### 🛠️ Tools & Platforms
 
@@ -102,6 +102,8 @@ AI-powered agriculture platform focused on intelligent fertilizer recommendation
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
 ---
 
 ### 📋 Task Manager
@@ -115,6 +117,8 @@ A full-stack task management application with authentication, task creation and 
 <a href="https://github.com/KumarVishal91/Task-Manager">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
 
 ---
 
@@ -144,7 +148,7 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -156,17 +160,7 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 ---
 
-# 🟩 GitHub Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/2563eb/KumarVishal91" alt="Vishal Kumar's GitHub Contribution Chart" />
-
-</div>
-
----
-
-# 📈 Contribution Summary
+# 🟩 Contribution Overview
 
 <div align="center">
 
@@ -174,15 +168,23 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 </div>
 
----
-
-# ⏰ Developer Activity
+<br/>
 
 <div align="center">
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarVishal91&theme=tokyonight" />
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KumarVishal91&theme=tokyonight&utcOffset=5.5" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarVishal91&theme=tokyonight" />
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KumarVishal91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -192,9 +194,11 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<img width="100%" src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
+> ⚠️ The snake image will display only after you configure the GitHub Action that generates it.
 
 ---
 
@@ -202,7 +206,7 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 <div align="center">
 
-| 🚀 Area | 📈 Focus |
+| 🚀 Area | 📈 Current Focus |
 |---|---|
 | 💻 Full Stack Development | ████████████████░░ 80% |
 | ⚙️ Backend Development | ███████████████░░░ 75% |
@@ -221,11 +225,11 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 <img src="https://img.shields.io/badge/Primary_Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-<img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-DSA-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Problem_Solving-Active-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem_Solving-Active-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Always%20Learning-22C55E?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 </div>
 
@@ -236,15 +240,15 @@ Regularly solving coding problems and improving algorithmic thinking.
 <div align="center">
 
 <a href="https://github.com/KumarVishal91">
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vishal-kumar91/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://my-portfolio-qp9c.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox-browser&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox-browser&logoColor=white" height="50" />
 </a>
 
 </div>
@@ -257,9 +261,9 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 ### **"Learn. Build. Solve. Improve. Repeat. 🚀"**
 
-<br>
+<br/>
 
-💻 **Code** → 🧠 **Learn** → 🚀 **Build** → 🔥 **Improve**
+💻 **Code** &nbsp;→&nbsp; 🧠 **Learn** &nbsp;→&nbsp; 🚀 **Build** &nbsp;→&nbsp; 🔥 **Improve**
 
 </div>
 
@@ -268,6 +272,8 @@ Regularly solving coding problems and improving algorithmic thinking.
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer" />
 
