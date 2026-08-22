@@ -131,14 +131,15 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 </div>
 
 ---
+---
 
-# 📊 GitHub Dashboard
+# 📊 Developer Dashboard
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="175" src="https://streak-stats.demolab.com?user=KumarVishal91&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=KumarVishal91&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -146,59 +147,41 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarVishal91&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KumarVishal91&theme=tokyonight" />
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KumarVishal91&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-# 🟩 Contribution Graph
-
-<div align="center">
-
-<img width="900" src="https://ghchart.rshah.org/219138/KumarVishal91" alt="GitHub Contribution Graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KumarVishal91&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 📈 Contribution Summary
+# 📈 Contribution Overview
 
 <div align="center">
 
-<img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarVishal91&theme=tokyonight" alt="GitHub Profile Summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarVishal91&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 💻 Coding Statistics
+# ⏰ Coding Activity
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KumarVishal91&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KumarVishal91&theme=tokyonight&utcOffset=5.5" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KumarVishal91&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarVishal91&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarVishal91&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<img width="900" src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img width="100%" src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
