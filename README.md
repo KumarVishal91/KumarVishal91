@@ -160,38 +160,6 @@ Full-stack task management application with authentication, task creation, task 
 
 ---
 
-# ⚡ GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarVishal91&bg_color=050816&color=00F7FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# 📈 Contribution Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarVishal91&theme=tokyonight" />
-
-</div>
-
----
-
-# ⏱️ Coding Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KumarVishal91&theme=tokyonight&utcOffset=5.5" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarVishal91&theme=tokyonight" />
-
-</div>
-
----
-
 # 🎯 Currently Learning
 
 <div align="center">
