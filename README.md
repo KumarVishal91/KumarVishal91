@@ -200,26 +200,6 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KumarVishal91&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 # 🎯 Currently Learning
 
 <div align="center">
