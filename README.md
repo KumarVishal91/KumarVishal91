@@ -119,19 +119,19 @@
 
 <img src="https://img.shields.io/badge/Status-Active-00FF9D?style=for-the-badge" />
 
-<br><br>
+<br>
 
 AI-powered agriculture platform focused on intelligent fertilizer recommendations, nutrient insights and crop-care assistance.
 
-<br><br>
+<br>
 
 <b>Tech Stack</b>
 
-<br><br>
+<br>
 
 `React.js` `Python` `Machine Learning` `AI`
 
-<br><br>
+<br>
 
 <a href="https://github.com/KumarVishal91/KisanAI">
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=050816" />
@@ -145,19 +145,19 @@ AI-powered agriculture platform focused on intelligent fertilizer recommendation
 
 <img src="https://img.shields.io/badge/Status-Complete-BD00FF?style=for-the-badge" />
 
-<br><br>
+<br>
 
 Full-stack task management application with authentication, task creation, task updates and task status management.
 
-<br><br>
+<br>
 
 <b>Tech Stack</b>
 
-<br><br>
+<br>
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
 
-<br><br>
+<br>
 
 <a href="https://github.com/KumarVishal91/Task-Manager">
 <img src="https://img.shields.io/badge/View_Project-BD00FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -169,6 +169,7 @@ Full-stack task management application with authentication, task creation, task 
 </table>
 
 </div>
+
 
 ---
 
@@ -266,9 +267,9 @@ Full-stack task management application with authentication, task creation, task 
 # 🌐 Connect
 
 <div align="center">
-
-<a href="https://github.com/KumarVishal91"><img src="https://skillicons.dev/icons?i=github" width="55" /></a><a href="https://www.linkedin.com/in/vishal-kumar91/"><img src="https://skillicons.dev/icons?i=linkedin" width="55" /></a><a href="https://my-portfolio-qp9c.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox-browser&logoColor=050816" height="55" /></a>
-
+  <a href="https://github.com/KumarVishal91"><img src="https://skillicons.dev/icons?i=github" width="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishal-kumar91/"><img src="https://skillicons.dev/icons?i=linkedin" width="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://my-portfolio-qp9c.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox-browser&logoColor=050816" height="55" /></a>
 </div>
 
 ---
