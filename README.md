@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Vishal Kumar
+# Vishal Kumar
 
 ### Full Stack Developer · Backend Enthusiast · AI/ML Student
 
@@ -170,12 +170,29 @@ Full-stack task management application with authentication, task creation, task 
 
 </div>
 
+---
+
+# 🔨 What I'm Building
+
+<div align="center">
+
+|        Focus       | Current Direction                                         |
+| :----------------: | :-------------------------------------------------------- |
+| 🤖 AI Applications | Intelligent applications using ML, LLMs & Generative AI   |
+|    🌐 Full Stack   | Practical web applications with modern frontend & backend |
+| ⚙️ Backend Systems | REST APIs, authentication, databases & scalable services  |
+|       🧠 DSA       | Algorithms, data structures & problem-solving             |
+|    🔗 RAG & LLMs   | Exploring retrieval-augmented AI applications             |
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=050816&title_color=00F7FF&icon_color=BD00FF&text_color=FFFFFF" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=KumarVishal91&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=BD00FF&currStreakLabel=00F7FF" />
 
@@ -275,6 +292,7 @@ Full-stack task management application with authentication, task creation, task 
 ---
 
 # 💭 Developer Mindset
+
 <div align="center">
 
 ### **"Learn. Build. Solve. Improve. Repeat. 🚀"**
@@ -293,6 +311,6 @@ Full-stack task management application with authentication, task creation, task 
 
 ### ⭐ Thanks for visiting my profile!
 
-`[ Connection Established • See You In The Next Commit ]`
+`Turning ideas into code, and code into impact.`
 
 </div>
