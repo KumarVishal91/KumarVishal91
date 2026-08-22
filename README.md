@@ -36,7 +36,6 @@
 🔗 Learning RAG, LLMs & AI-powered Applications
 🧠 DSA & Problem Solving
 🚀 Turning Ideas into Real-World Projects
-
 ```
 
 ---
@@ -147,6 +146,16 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 ---
 
+# 🟩 GitHub Contributions
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/219138/KumarVishal91" alt="Vishal Kumar's GitHub Contribution Graph" />
+
+</div>
+
+---
+
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -157,31 +166,55 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 
 ---
 
+# 📅 Contribution Details
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarVishal91&theme=tokyonight" />
+
+</div>
+
+---
+
+# ⏰ Coding Activity
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KumarVishal91&theme=tokyonight&utcOffset=5.5" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarVishal91&theme=tokyonight" />
+
+</div>
+
+---
+
+# 💻 Language Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KumarVishal91&theme=tokyonight" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KumarVishal91&theme=tokyonight" />
+
+</div>
+
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KumarVishal91&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=KumarVishal91&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarVishal91&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/KumarVishal91/KumarVishal91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -225,12 +258,14 @@ Regularly solving coding problems and strengthening algorithmic thinking.
 <a href="https://github.com/KumarVishal91">
 <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
+   
 
 <a href="https://www.linkedin.com/in/vishal-kumar91/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
+   
 
 <a href="https://my-portfolio-qp9c.vercel.app/">
 <img src="https://img.shields.io/badge/🌐-Portfolio-FF5722?style=for-the-badge" height="50" />
