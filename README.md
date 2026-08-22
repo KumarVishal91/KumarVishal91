@@ -160,7 +160,7 @@ Full-stack task management application with authentication, task creation, task 
 <br><br>
 
 <a href="https://github.com/KumarVishal91/Task-Manager">
-<img src="https://img.shields.io/badge/View_Project-BD00FF?style=for-the-badge&logo=github&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/View_Project-BD00FF?style=for-the-badge&logo=github&logoColor=white" /> -->
 </a>
 
 </td>
