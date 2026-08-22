@@ -158,7 +158,6 @@ Regularly solving coding problems and improving algorithmic thinking.
 
 ---
 
-# 🟩 GitHub Contribution Graph
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
 <h2 align="center">
