@@ -159,12 +159,18 @@ Regularly solving coding problems and improving algorithmic thinking.
 ---
 
 # 🟩 GitHub Contribution Graph
+<!-- ==================== GITHUB ACTIVITY ==================== -->
 
-<div align="center">
+<h2 align="center">
+  ⚡ GitHub Activity
+</h2>
 
-<img width="100%" src="https://ghchart.rshah.org/2563eb/KumarVishal91" alt="Vishal Kumar's GitHub Contribution Graph" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KumarVishal91&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+  />
+</p>
 
 ---
 
