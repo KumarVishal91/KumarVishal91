@@ -6,16 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real-World+Applications+%F0%9F%9A%80;Full+Stack+Developer+%7C+Backend+Enthusiast;CSE+Student+%7C+AI+%26+Machine+Learning;DSA+Enthusiast+%7C+Problem+Solver;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-
-# Hey, I'm Vishal 👋
-
-### Full Stack Developer · Problem Solver · AI/ML Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real-World+Applications+%F0%9F%9A%80;Full+Stack+Developer+%7C+Backend+Enthusiast;CSE+Student+%7C+AI+%26+Machine+Learning;DSA+Enthusiast+%7C+Problem+Solver;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
 <br><br>
 
 <a href="https://github.com/KumarVishal91">
