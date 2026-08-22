@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Vishal Kumar
+#  Vishal Kumar
 
 ### Full Stack Developer · Backend Enthusiast · AI/ML Student
 
@@ -160,7 +160,7 @@ Full-stack task management application with authentication, task creation, task 
 <br><br>
 
 <a href="https://github.com/KumarVishal91/Task-Manager">
-<!-- <img src="https://img.shields.io/badge/View_Project-BD00FF?style=for-the-badge&logo=github&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/View_Project-BD00FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -175,8 +175,6 @@ Full-stack task management application with authentication, task creation, task 
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=050816&title_color=00F7FF&icon_color=BD00FF&text_color=FFFFFF" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=KumarVishal91&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=BD00FF&currStreakLabel=00F7FF" />
 
@@ -269,28 +267,13 @@ Full-stack task management application with authentication, task creation, task 
 
 <div align="center">
 
-<a href="https://github.com/KumarVishal91">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-</a>
-
-    
-
-<a href="https://www.linkedin.com/in/vishal-kumar91/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-</a>
-
-    
-
-<a href="https://my-portfolio-qp9c.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox-browser&logoColor=050816" height="55" />
-</a>
+<a href="https://github.com/KumarVishal91"><img src="https://skillicons.dev/icons?i=github" width="55" /></a><a href="https://www.linkedin.com/in/vishal-kumar91/"><img src="https://skillicons.dev/icons?i=linkedin" width="55" /></a><a href="https://my-portfolio-qp9c.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox-browser&logoColor=050816" height="55" /></a>
 
 </div>
 
 ---
 
 # 💭 Developer Mindset
-
 <div align="center">
 
 ### **"Learn. Build. Solve. Improve. Repeat. 🚀"**
