@@ -148,8 +148,6 @@ Full-stack task management application with authentication, task creation, task 
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=KumarVishal91&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=BD00FF&currStreakLabel=00F7FF" />
-
 <br><br>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KumarVishal91&theme=tokyonight" />
