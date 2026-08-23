@@ -148,8 +148,6 @@ Full-stack task management application with authentication, task creation, task 
 
 <div align="center">
 
-<br><br>
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KumarVishal91&theme=tokyonight" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KumarVishal91&theme=tokyonight" />
