@@ -107,19 +107,6 @@ Full-stack task management application with authentication, task creation, task 
 | RAG           | Retrieval-augmented AI systems              |
 | DSA           | Algorithms & competitive problem solving    |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KumarVishal91&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarVishal91&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
 
 ## Coding
 
@@ -140,7 +127,6 @@ Full-stack task management application with authentication, task creation, task 
 <div align="center">
 
 ### Learn · Build · Solve · Improve
-
-Thanks for visiting my profile.
+“Talk is cheap. Show me the code.”
 
 </div>
